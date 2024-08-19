@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+}
+.linkmon-icon{
+    width: 15%;
+    padding: 0% 41%;
+}
+.link-liste-item{
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+  justify-content: center;
+    align-items: center;
+    padding: 0% 12%;
+}
+.link-liste-item{
+display: inline-block;
+margin: 9px 6;
+font-style: italic;
+font-size: large;
+}
+.linkmon{
+display: inline-block;
+margin: 16 6px;
+}
+*{
+margin: 0;
+padding: 0;
+}
+.back{
+        font-size: 150%;
+        color: #000000;
+        background-image: pxfuel;
+       background: transparent;
+       padding: 0 0;
+}
+body{background-color: #000000;
+}
+.escolha{
+  color: #ffffff;
+  display: inline-block;
+justify-content:flex-start;
+  align-items: flex-start;
+  padding:10px 10%;
+  font-style: italic;
+font-size: medium;
+}
+
+
